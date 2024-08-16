@@ -1,7 +1,9 @@
+<!-- markdownlint-disable MD024 -->
+<!-- markdownlint-disable MD045 -->
+
 # Copilot Prompt Engineering
 
 <img src="docs/images/copilot-prompt.png" alt="Copilot Prompt" width="100"/>
-
 This repository includes Copilot training exercises intended to give you practical experience using
 <img src="docs/images/copilot.png" alt="Copilot" width="50" align="center"/> +
 <img src="docs/images/copilot-chat.png" alt="Copilot Prompt" width="50" align="center"/>
@@ -114,7 +116,7 @@ Can you create an HTML calculator for me? Use the following example:
 
 ### DEMO 3
 
-#### Zero-shot 
+#### Zero-shot
 
 ```text
 Can you write me the code for a snake game?
@@ -164,16 +166,16 @@ This demo uses a **very** detailed prompt with examples to guide Copilot in gene
 
 <p style="margin-left: 30px;"><img src="docs/images/leetcode-overview-1.svg"/></p>
 
-#### 4. Now use the problem descption from **leetcode** with Copilot Chat (copy & paste), ask it to create the code.
+#### 4. Now use the problem descption from **leetcode** with Copilot Chat (copy & paste), ask it to create the code
 
-#### 5. When you accepted the suggestion from copilot chat (copy into file).
+#### 5. When you accepted the suggestion from copilot chat (copy into file)
 Use the right click pop-up menu in the solutions file to `test` and `submit` your solution to **leetcode**
 
 <p style="margin-left: 30px;"><img src="docs/images/leetcode-popup.png"/></p>
 
 ---
 
-#### The final step is to evaluate the Copilot suggestion for its 'pass' or 'fail' status and to determin its corresponding 'score'.
+#### The final step is to evaluate the Copilot suggestion for its 'pass' or 'fail' status and to determin its corresponding 'score'
 
 #### Good Luck!
 
