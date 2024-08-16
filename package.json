@@ -1,0 +1,20 @@
+{
+  "name": "copilot-prompt-crafting",
+  "version": "1.0.0",
+  "description": "Copilot Prompt crafting demo",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest"
+  },
+  "author": "jefeish",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^29.7.0",
+    "loader": "^2.1.1",
+    "priorityqueuejs": "^2.0.0"
+  }
+}
