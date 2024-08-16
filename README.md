@@ -3,10 +3,12 @@
 
 # Copilot Prompt Engineering
 
+<p style="margin-left: 30px;">
 <img src="docs/images/copilot-prompt.png" alt="Copilot Prompt" width="100"/>
 This repository includes Copilot training exercises intended to give you practical experience using
 <img src="docs/images/copilot.png" alt="Copilot" width="50" align="center"/> +
 <img src="docs/images/copilot-chat.png" alt="Copilot Prompt" width="50" align="center"/>
+</p>
 
 ## 🎯 Goal
 
@@ -146,7 +148,7 @@ This demo uses a **very** detailed prompt with examples to guide Copilot in gene
 
  <p style="margin-left: 30px;">2.1 &nbsp; &nbsp;At the time of writing this document, the LeetCode extension may experience difficulties with logging in to leetcode.com. For guidance on connecting to the website, please refer to the instructions provided in this <a href="https://betterprogramming.pub/work-on-leetcode-problems-in-vs-code-5fedf1a06ca1">blog</a>.</p>
 
-#### 3. When you are connected to `leetcode.com`, start with some exercise.
+#### 3. When you are connected to `leetcode.com`, start with some exercise
 
 <p style="margin-left: 30px;">1. Open the `leetcode` extension
 </p>
@@ -177,7 +179,7 @@ Use the right click pop-up menu in the solutions file to `test` and `submit` you
 
 #### The final step is to evaluate the Copilot suggestion for its 'pass' or 'fail' status and to determin its corresponding 'score'
 
-#### Good Luck!
+#### Good Luck
 
 ## 🤝 Contributing
 
