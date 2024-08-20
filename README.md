@@ -37,7 +37,7 @@ Learn of how to use prompt engineering techniques to get accurate responses from
   - Information to help GitHub Copilot understand the task better
 - Intent :: Give Directions
   - The specific goal or purpose you have in mind when creating a prompt
-- Clarity :: Easy to UNderstand
+- Clarity :: Easy to Understand
   - Being clear, transparent, and easily understood
 - Specificity :: Precision in Detail
   - Providing precise and detailed information, leaving little room for ambiguity or interpretation
