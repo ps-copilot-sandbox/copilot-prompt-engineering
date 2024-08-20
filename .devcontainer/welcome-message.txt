@@ -1,0 +1,2 @@
+👋 Welcome to the Copilot & Copilot Chat, Codespaces Demo Experience!
+📖 We have several exercises to walk you through prompt engineering techniques with Copilot & Copilot Chat
