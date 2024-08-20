@@ -111,7 +111,8 @@ Can you create an HTML calculator for me? Use the following example:
     <title>Calculator</title>
     <link rel="stylesheet" href="style.css">
   </head>
-<body> 
+<body>
+</html> 
 ```
 
 ---
