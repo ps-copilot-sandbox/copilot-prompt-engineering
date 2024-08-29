@@ -134,7 +134,15 @@ Example: Ensure that there is a leaderboard mechanic
 
 ---
 
-### DEMO 4 - [LeetCode](https://leetcode.com) (Advanced Demo)
+### DEMO 4
+
+This exercise creates an MVC App that functions as an RSS Feeds client to report GitHub Health information
+
+[Get GitHub Status with Copilot Guide](./GitHub-Status-With-Copilot.md)
+
+---
+
+### DEMO 5 - [LeetCode](https://leetcode.com) (Advanced Demo)
 
 This demo uses a **very** detailed prompt with examples to guide Copilot in generating effective suggestions.
 
