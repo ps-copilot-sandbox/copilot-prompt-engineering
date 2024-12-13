@@ -31,7 +31,7 @@ Learn of how to use prompt engineering techniques to get accurate responses from
 - Test changes systematically
   - Measure performance, watch for prompt changes' side effects, and use test suites for implementation
 
-### Cornerstornes of Prompting
+### Cornerstones of Prompting
 
 - Context :: Provide Examples
   - Information to help GitHub Copilot understand the task better
