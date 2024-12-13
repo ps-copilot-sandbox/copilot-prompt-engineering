@@ -60,7 +60,7 @@ Learn of how to use prompt engineering techniques to get accurate responses from
 
 - <img src="docs/images/ide-vscode.png" alt="Visual Studio Code" width="20"/> VS Code
 - <img src="docs/images/ide-vs.png" alt="Visual Studio" width="20"/> Visual Studio
-- <img src="docs/images/ide-jetbrains.png" alt="Jetbrains IDE" width="20"/> Jetbrains IDE
+- <img src="docs/images/ide-jetbrains.png" alt="Jetbrains IDE" width="20"/> JetBrains IDE
 
 ---
 
